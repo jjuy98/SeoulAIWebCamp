@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="ko">
+
+
+<head>
+    <meta charset="UTF-8">
+    <title> 쥬영 도서</title>
+</head>
+
+<body>
+    <header>
+        <div class="gnb_search_wrap">
+            <div class="logo_box"></div>
+            <div class="gnb_search_box"></div>
+            <ul class="user_menu_box"></ul>
+        </div>
+
+        <nav class="gnb_wrap">
+            <div class="anb_wrap"></div>
+            
+
+
+        </nav>
+
+    </header>
+    
+    <main>
+
+    </main>
+
+
+    <footer>
+
+    </footer>
+
+</body>
+
+
+
+
+</html>
+
 
